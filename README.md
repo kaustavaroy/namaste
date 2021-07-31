@@ -1,3 +1,3 @@
-# hello-world
-hello-world repo: 
+# namaste
+namaste repo: 
 my first git-hub repo 
